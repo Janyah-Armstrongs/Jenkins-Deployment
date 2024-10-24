@@ -10,7 +10,7 @@ Login into your OS and make sure terraform is installed if it isn't you can use 
 ### Step: 2 Creating EC2 instance with user data script
 
 The following is showing how to create an Instance. Tip to find your ami from your region go to AMI Catalog on aws and search Amazon Linux 2 there will be two codes one for x64 and x86 I chose x64.
-![EC2 data script](image.png)
+![EC2 data script](images/image.png)
 Closer look at User Data script
 ![Data Script](image-1.png)
 
