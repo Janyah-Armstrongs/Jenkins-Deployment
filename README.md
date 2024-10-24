@@ -25,6 +25,7 @@ This security group allows Jenkins to run safely by controlling who can access i
 ### Step: 4 Create S3 Bucket
 
 ![S3 Bucket Script](images/image-3.png)
+
 For this section I did run into an error with the acl The writing above shows the now formatting for the creation to go through but the writing below show the before error and code I had. Although my solution was to just delete the middle coding I had I thought it would be valuable to share.
 
 ![error message](images/image-4.png)
