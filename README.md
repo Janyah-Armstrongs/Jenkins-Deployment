@@ -38,4 +38,6 @@ Run the following commands in your terminal 
 
 After running these codes, you should see "Apply complete" and be able to check on AWS to see all that Terraform has accomplished.
 ![End Results](images/image-6.png)
+![End Results](image-7.png)
+![End Results](image-8.png)
 # Hope you enjoyed!
